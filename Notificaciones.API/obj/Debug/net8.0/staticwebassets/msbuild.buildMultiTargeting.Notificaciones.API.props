@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Notificaciones.API.props" />
+</Project>
